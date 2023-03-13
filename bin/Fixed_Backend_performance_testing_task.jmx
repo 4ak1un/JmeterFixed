@@ -46,7 +46,7 @@
       </HeaderManager>
       <hashTree/>
       <com.blazemeter.jmeter.RandomCSVDataSetConfig guiclass="com.blazemeter.jmeter.RandomCSVDataSetConfigGui" testclass="com.blazemeter.jmeter.RandomCSVDataSetConfig" testname="bzm - Random CSV Data Set Config" enabled="true">
-        <stringProp name="filename">/home/oleksii/Desktop/apache-jmeter-5.5/bin/chairTypes.csv</stringProp>
+        <stringProp name="filename">/var/lib/jenkins/workspace/JmeterPipline/bin/chairTypes.csv</stringProp>
         <stringProp name="fileEncoding">UTF-8</stringProp>
         <stringProp name="delimiter">,</stringProp>
         <stringProp name="variableNames"></stringProp>
